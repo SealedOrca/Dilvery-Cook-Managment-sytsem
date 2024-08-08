@@ -1,0 +1,250 @@
+{
+  "project_info": {
+    "project_number": "944689820051",
+    "project_id": "cook-d9323",
+    "storage_bucket": "cook-d9323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944689820051:android:9f6a47a27b65897922f866",
+        "android_client_info": {
+          "package_name": "com.example.cook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944689820051-n4g5upur0ii3kg7mc72np1vf8k3j346b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhN44RpUrrhNJXaDMTo5L5vx2uFrvYupw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944689820051-n4g5upur0ii3kg7mc72np1vf8k3j346b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944689820051-9imrlkgnlg1to1r6jjik8gps2g86dgej.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fcook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944689820051:android:83506228bde4a91822f866",
+        "android_client_info": {
+          "package_name": "com.example.fcook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944689820051-anfcp03qhkarg48ki86eg496s3rakjnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fcook",
+            "certificate_hash": "9a6a24fb041bc49769a3be3a628b8fca9df7e439"
+          }
+        },
+        {
+          "client_id": "944689820051-n4g5upur0ii3kg7mc72np1vf8k3j346b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhN44RpUrrhNJXaDMTo5L5vx2uFrvYupw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944689820051-n4g5upur0ii3kg7mc72np1vf8k3j346b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944689820051-9imrlkgnlg1to1r6jjik8gps2g86dgej.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fcook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944689820051:android:42469071d245807022f866",
+        "android_client_info": {
+          "package_name": "com.example.scook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944689820051-rkjp83e144om07c95hkfqsc1q6bkg478.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scook",
+            "certificate_hash": "9a6a24fb041bc49769a3be3a628b8fca9df7e439"
+          }
+        },
+        {
+          "client_id": "944689820051-n4g5upur0ii3kg7mc72np1vf8k3j346b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhN44RpUrrhNJXaDMTo5L5vx2uFrvYupw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944689820051-n4g5upur0ii3kg7mc72np1vf8k3j346b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944689820051-9imrlkgnlg1to1r6jjik8gps2g86dgej.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fcook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944689820051:android:12a5c28b37f5834322f866",
+        "android_client_info": {
+          "package_name": "com.example.sook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944689820051-n4g5upur0ii3kg7mc72np1vf8k3j346b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhN44RpUrrhNJXaDMTo5L5vx2uFrvYupw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944689820051-n4g5upur0ii3kg7mc72np1vf8k3j346b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944689820051-9imrlkgnlg1to1r6jjik8gps2g86dgej.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fcook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944689820051:android:38dcc0214b6ccb6022f866",
+        "android_client_info": {
+          "package_name": "com.example.wok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944689820051-4icd52cd59sm8m09k0sdm2l31ap69r8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wok",
+            "certificate_hash": "b2e4e6c508482229713b9c5a496cfedbb88a27dd"
+          }
+        },
+        {
+          "client_id": "944689820051-n4g5upur0ii3kg7mc72np1vf8k3j346b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhN44RpUrrhNJXaDMTo5L5vx2uFrvYupw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944689820051-n4g5upur0ii3kg7mc72np1vf8k3j346b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944689820051-9imrlkgnlg1to1r6jjik8gps2g86dgej.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fcook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944689820051:android:592e0f2fda2edb0f22f866",
+        "android_client_info": {
+          "package_name": "com.example.wook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944689820051-n4g5upur0ii3kg7mc72np1vf8k3j346b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhN44RpUrrhNJXaDMTo5L5vx2uFrvYupw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944689820051-n4g5upur0ii3kg7mc72np1vf8k3j346b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944689820051-9imrlkgnlg1to1r6jjik8gps2g86dgej.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fcook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
