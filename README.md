@@ -1,7 +1,7 @@
-FCook is a Flutter application designed to streamline food preparation and delivery processes. The application caters to two main user roles: cooks (kitchen staff) and drivers. It manages food orders, delivery schedules, and other related tasks efficiently.
+WardaCooking is a Flutter application designed to streamline food preparation and delivery processes. The application caters to two main user roles: cooks (kitchen staff) and drivers. It manages food orders, delivery schedules, and other related tasks efficiently.
 
 Project Overview
-FCook provides a unified platform for managing food orders and coordinating deliveries. The app is designed to simplify interactions between the kitchen staff and delivery drivers, ensuring smooth operations and timely deliveries.
+WardaCooking provides a unified platform for managing food orders and coordinating deliveries. The app is designed to simplify interactions between the kitchen staff and delivery drivers, ensuring smooth operations and timely deliveries.
 
 Features
 Cook (Kitchen) Side:
@@ -17,14 +17,14 @@ Navigation: Use built-in navigation to find the most efficient routes for delive
 Status Updates: Update the status of deliveries, including pickup and drop-off times, and mark orders as completed.
 Customer Interaction: Communicate with customers for any clarifications or issues related to their orders.
 Getting Started
-To start working with FCook, follow these steps:
+To start working with WardaCooking, follow these steps:
 
 Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/fcook.git
-cd fcook
+git clone https://github.com/your-username/WardaCooking.git
+cd WardaCooking
 Install Dependencies:
 
 bash
